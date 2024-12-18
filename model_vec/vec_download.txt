@@ -1,0 +1,4 @@
+This folder contains files for the text and summary vectorizers saved differently with a vocabulary which is pre-trained for 35000 tokens.
+
+Keys for different summarizers:
+Model vectorizers key: O5oyjVgTDPLftUrHq1dpAg (Link to the website: https://mega.nz/folder/k8hDgaLR)
