@@ -1,0 +1,4 @@
+This folder contains the links for downloading the model architecture before training separately.
+
+Keys for different model architecture files tested (best model - bilstm_dyn_att_3.json):
+Model Architecture key: 4_HcEPJIbHqmPK1dEWbfeg (Link to the website: https://mega.nz/folder/ZlgTyb5b)
