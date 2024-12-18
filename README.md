@@ -19,6 +19,14 @@ This project implements **Bi-LSTM** and introduces a **novel local attention mec
 
 ---
 
+## **Project Links**
+For an in-depth understanding of the project, please refer to the following resources:
+
+- 📹 **Project Explanation Video** (YouTube): [Watch Here](https://www.youtube.com/watch?v=xY1kJ3LcZsA&t=837s)  
+- 🌐 **Project Website**: [Explore the Project](https://sites.google.com/view/bilstm-dynatt/home)  
+
+---
+
 ## **Project Goals**
 - Automate text summarization using deep learning.
 - Develop **dynamic attention mechanisms** for better focus.
@@ -75,8 +83,6 @@ The model achieves outstanding performance:
 
 ![BLEU Score Graph](images/bleu.png)
 
-
-
 **Confusion Matrix Graph**:
 
 ![Confusion Matrix](images/confusion.png)
@@ -115,5 +121,9 @@ Contributions are welcome! Follow these steps:
 
 ## **Acknowledgments**
 This project was part of **CSCI-5922** coursework and reflects collaborative efforts to push the boundaries of text summarization.
+
+---
+
+For an in-depth explanation, visit the [Project Website](https://sites.google.com/view/bilstm-dynatt/home) or watch the **YouTube Video** for a detailed walkthrough: [Watch Here](https://www.youtube.com/watch?v=xY1kJ3LcZsA&t=837s).
 
 ---
