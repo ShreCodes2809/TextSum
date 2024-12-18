@@ -1,0 +1,1 @@
+This folder has different versions of weights of the pre-trained model saved in .h5 format. The best model weights were obtained in "bilstm_dyn_att_3.weights.h5".
