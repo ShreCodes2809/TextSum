@@ -111,6 +111,15 @@ The model achieves outstanding performance:
 
 ---
 
+## **Setup and Usage**
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/ShreCodes2809/TextSum.git
+   cd TextSum
+   ```
+
+---
+
 ## **Contributing**
 Contributions are welcome! Follow these steps:
 1. Fork the repository.
